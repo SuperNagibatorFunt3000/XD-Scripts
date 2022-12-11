@@ -5,6 +5,7 @@ userids = {
 [1030310092] = true,
 [1634184504] = true,
 [973400135] = true,
-[3253720609] = true
+[3253720609] = true,
+[553301628] = true
 }
 return userids
